@@ -1,0 +1,2 @@
+Enter the number of terms in Fibonacci series: 5
+Fibonacci series up to 5 terms: 0 1 1 2 3 
