@@ -40,17 +40,7 @@ Inside your program's folder, add the following files:
 
 ## Example Folder Structure
 
-├── CSE
-│ ├── Lab1 
-│ │ ├── MatrixMultiplication 
-│ │ │ ├── MatrixMultiplication.py 
-│ │ │ ├── output.txt 
-│ │ │ └── README.md 
-│ ├── Lab2 
-│ │ ├── ... 
-├── CSE-CYBER SECURITY
-│ ├── Lab1 
-│ │ ├── ...
+├── CSE<br>│ ├── Lab1 <br>│ │ ├── MatrixMultiplication <br>│ │ │ ├── MatrixMultiplication.py <br>│ │ │ ├── output.txt <br>│ │ │ └── README.md <br>│ ├── Lab2 <br>│ │ ├── ...<br>├── CSE-CYBER SECURITY<br>│ ├── Lab1 <br>│ │ ├── ...
 
 
 ## Pull Request Guidelines
