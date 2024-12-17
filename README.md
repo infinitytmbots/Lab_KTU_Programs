@@ -11,7 +11,6 @@ Thank you for your interest in contributing to our repository! To ensure consist
   - `CSE-CYBER SECURITY`
   - `ARTIFICIAL INTELLIGENCE`
   - `ARTIFICIAL INTELLIGENCE AND DATA SCIENCE`
-  - `EC`
 
 ### 2. Select the Appropriate Lab
 
